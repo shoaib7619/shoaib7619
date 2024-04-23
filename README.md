@@ -1,6 +1,4 @@
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=1E88E5&background=993A8500&center=true&multiline=true&width=471&height=100&lines=Hello+%F0%9F%91%8B%2C+I'm+Mariam+;+A+Passionate+Front-End+Developer)](https://git.io/typing-svg)</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=1200&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;I+am+an+inquisitive+and+passionate+learner+%F0%9F%92%A1+Currently%2C+I+am+working+on+full-stack+development.)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Muhammad Shoaib</h1>
 <h3 align="center">I am an inquisitive and passionate learner 💡 Currently, I am working on full-stack development.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207/screenshots/3848914/programmer.gif">
