@@ -1,5 +1,5 @@
+# 💫 About Me:
 <div align="center">
-  
  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&multiline=true&random=false&width=600&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Shoaib+;I+am+an+inquisitive+and+passionate+learner+%F0%9F%92%A1;Currently%2C+I+am+working+on+full-stack+development)</div>
 
 
@@ -17,6 +17,10 @@
 - 💬 Ask me about **HTML | CSS | Boostrap | Tailwind | JavaScript | MERN | PHP**
 
 - 📫 How to reach me **shoaibkareem753@gmail.com**
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/rabia.zubair.90](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](------) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](-----)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
