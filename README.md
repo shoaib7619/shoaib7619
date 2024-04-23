@@ -19,7 +19,9 @@
 - 📫 How to reach me **shoaibkareem753@gmail.com**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/rabia.zubair.90](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](------) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](-----)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100010405754427&_rdc=1&_rdr)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shoaib_7619/?igsh=MTQ4amo3YTUwdHAxaw%3D%3D) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-shoaib-0837b922a)
 
 
 # 💻 Tech Stack:
